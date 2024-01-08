@@ -181,7 +181,8 @@ public final class AutoCreateTestCases {
             }
             if (line.indexOf("@Test") != -1 && !functionSeenYet) {
                 findFunction = true;
-            } else if (findFunction && line.indexOf("(") != -1) {
+            } 
+            if (findFunction && line.indexOf("(") != -1) {
                 findFunction = false;
                 nextCase.add(nextCase.length(),
                         line.substring(0, line.indexOf("(")) + caseNumber
