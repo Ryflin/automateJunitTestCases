@@ -3,6 +3,8 @@ This program is designed to automate test cases. So that the input can be fluid,
 
 The generated contents are automatically added to the clipboard.
 
+This project is still in testing phase. There may be unexpected bugs that need fixed.
+
 # Formatting specifications
 The @Test is used to identify the start of the test function.
 
