@@ -30,5 +30,5 @@ If there are multiple assignments per line the program should extract the first 
         assertEquals(i, iEx);
         assertEquals(j, jEx);
     }
-q //to ensure that no line breaks are accidentally assumed to be the end of input, a q on its own line with no formatting is used to signal the end of the test case formatting.
+    q //to ensure that no line breaks are accidentally assumed to be the end of input, a q on its own line with no formatting is used to signal the end of the test case formatting.
  
