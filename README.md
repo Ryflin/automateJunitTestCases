@@ -5,6 +5,8 @@ The generated contents are automatically added to the clipboard.
 
 This project is still in testing phase. There may be unexpected bugs that need fixed.
 
+This project was made for my own use and the use of students taking CSE at osu. It may not apply to your used case
+
 # Formatting specifications
 The @Test is used to identify the start of the test function.
 
